@@ -1,6 +1,6 @@
-6b5b4d251d97966fd797410e26b09c3ab13ba6765284651abf31e1b2b6bd01ea  callbrifel-0.1.0-darwin-arm64.dmg
-f1d70456f785f63dbfb15ae9a938ce03d6db4b2effdfe3dede26979b6ae63282  callbrifel-0.1.0-darwin-arm64.app.zip
-f8d7269b0c3e5f4212b3902af2278d18b4ac322146813ef91231fd5860bc3df8  callbrifel-0.1.0-darwin-amd64.dmg
-c34dd2a72562a5438bfb4554fdab1f7d0cd8b57041ebb75bc9a906b3ec5196fa  callbrifel-0.1.0-darwin-amd64.app.zip
-d12c933f7de9f5f4bde8d35dace9bd4315e59c91ba871f8141a43c715b9043a9  callbrifel-0.1.0-windows-amd64-installer.exe
-a33b0105844a2b1ccf86a040a810f425f8ac081bedfee01f544e1f29e86a43c9  callbrifel-0.1.0-windows-amd64.zip
+b539e2c99e06769d6f161d1f3849744e259cd392eda157c024de88bdcb136028  callbrifel-0.1.0-darwin-arm64.dmg
+b516a2a244661c9860dbcd5699c90372639d4a77cb0b0e8b83e692023bd54aa5  callbrifel-0.1.0-darwin-arm64.app.zip
+664df80c20fb6e613798e95db70879d950bd490114b2bf68170bded82238e46a  callbrifel-0.1.0-darwin-amd64.dmg
+c94206dce610b8848e4e2f9623930cd094e31e65c16d2e94b9a277accfe8eae3  callbrifel-0.1.0-darwin-amd64.app.zip
+9057a03465b154d0a075c03d7878b36b510d8cc7e02a8b35e949b9ef3a7ecedb  callbrifel-0.1.0-windows-amd64-installer.exe
+32c1b84bb3e06b95a605e962646bc664c26d341ba808f477f4443e7b1ee499bf  callbrifel-0.1.0-windows-amd64.zip
