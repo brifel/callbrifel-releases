@@ -1,76 +1,76 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "channel": "stable",
-  "name": "CallBrifel v0.1.0",
-  "published_at": "2026-11-24T15:34:00Z",
-  "publishedAt": "2026-11-24T15:34:00Z",
+  "name": "CallBrifel v0.2.0",
+  "published_at": "2026-11-25T10:18:28Z",
+  "publishedAt": "2026-11-25T10:18:28Z",
   "minimum_supported_version": "0.1.0",
   "mandatory": false,
-  "release_notes": "Initial CallBrifel v0.1.0 cross-platform testing release (macOS Apple Silicon, macOS Intel, Windows x64).",
-  "notes": "Initial CallBrifel v0.1.0 cross-platform testing release (macOS Apple Silicon, macOS Intel, Windows x64).",
+  "release_notes": "Initial CallBrifel v0.2.0 cross-platform testing release (macOS Apple Silicon, macOS Intel, Windows x64).",
+  "notes": "Initial CallBrifel v0.2.0 cross-platform testing release (macOS Apple Silicon, macOS Intel, Windows x64).",
   "platforms": {
     "darwin-arm64": {
-      "download_url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.1.0/callbrifel-0.1.0-darwin-arm64.app.zip",
-      "installer_url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.1.0/callbrifel-0.1.0-darwin-arm64.dmg",
-      "sha256": "b516a2a244661c9860dbcd5699c90372639d4a77cb0b0e8b83e692023bd54aa5",
-      "installer_sha256": "b539e2c99e06769d6f161d1f3849744e259cd392eda157c024de88bdcb136028",
-      "filename": "callbrifel-0.1.0-darwin-arm64.app.zip",
-      "installer_filename": "callbrifel-0.1.0-darwin-arm64.dmg",
-      "size": 7659653
+      "download_url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.2.0/callbrifel-0.2.0-darwin-arm64.app.zip",
+      "installer_url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.2.0/callbrifel-0.2.0-darwin-arm64.dmg",
+      "sha256": "cb458031bb1b2f4717b2c559a6c1a38c43ece130a87099709919a3dfe0fd6275",
+      "installer_sha256": "f132ae7e1ef2abd807bc1e89b80326623da6fafce8d01acfdd69879dfe003936",
+      "filename": "callbrifel-0.2.0-darwin-arm64.app.zip",
+      "installer_filename": "callbrifel-0.2.0-darwin-arm64.dmg",
+      "size": 7671037
     },
     "darwin-amd64": {
-      "download_url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.1.0/callbrifel-0.1.0-darwin-amd64.app.zip",
-      "installer_url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.1.0/callbrifel-0.1.0-darwin-amd64.dmg",
-      "sha256": "c94206dce610b8848e4e2f9623930cd094e31e65c16d2e94b9a277accfe8eae3",
-      "installer_sha256": "664df80c20fb6e613798e95db70879d950bd490114b2bf68170bded82238e46a",
-      "filename": "callbrifel-0.1.0-darwin-amd64.app.zip",
-      "installer_filename": "callbrifel-0.1.0-darwin-amd64.dmg",
-      "size": 8305259
+      "download_url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.2.0/callbrifel-0.2.0-darwin-amd64.app.zip",
+      "installer_url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.2.0/callbrifel-0.2.0-darwin-amd64.dmg",
+      "sha256": "99ded09462507484a1606faedcf28f08095e1a2dfc57469626b840a6b6cec404",
+      "installer_sha256": "564d8bee5e1cae6c6c110a6c8405a5bea4e5ab9e16491dea750e1e92bf8a6c7a",
+      "filename": "callbrifel-0.2.0-darwin-amd64.app.zip",
+      "installer_filename": "callbrifel-0.2.0-darwin-amd64.dmg",
+      "size": 8313517
     },
     "windows-amd64": {
-      "download_url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.1.0/callbrifel-0.1.0-windows-amd64.zip",
-      "installer_url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.1.0/callbrifel-0.1.0-windows-amd64-installer.exe",
-      "sha256": "32c1b84bb3e06b95a605e962646bc664c26d341ba808f477f4443e7b1ee499bf",
-      "installer_sha256": "9057a03465b154d0a075c03d7878b36b510d8cc7e02a8b35e949b9ef3a7ecedb",
-      "filename": "callbrifel-0.1.0-windows-amd64.zip",
-      "installer_filename": "callbrifel-0.1.0-windows-amd64-installer.exe",
-      "size": 7813560
+      "download_url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.2.0/callbrifel-0.2.0-windows-amd64.zip",
+      "installer_url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.2.0/callbrifel-0.2.0-windows-amd64-installer.exe",
+      "sha256": "547b9076f5d2401b529ddc2f53f8b30fb6bed18cc8ebd378a351503fdaf1ac15",
+      "installer_sha256": "f6d597fb5ae43cfde6efe1ed564d8ec6c9ae996120b75153e903f5075a56a9a8",
+      "filename": "callbrifel-0.2.0-windows-amd64.zip",
+      "installer_filename": "callbrifel-0.2.0-windows-amd64-installer.exe",
+      "size": 7853831
     }
   },
   "artifacts": [
     {
       "platform": "darwin",
       "arch": "arm64",
-      "url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.1.0/callbrifel-0.1.0-darwin-arm64.app.zip",
-      "filename": "callbrifel-0.1.0-darwin-arm64.app.zip",
+      "url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.2.0/callbrifel-0.2.0-darwin-arm64.app.zip",
+      "filename": "callbrifel-0.2.0-darwin-arm64.app.zip",
       "filetype": "zip",
-      "size": 7659653,
+      "size": 7671037,
       "digestAlgo": "sha256",
-      "digest": "tRaiokRmHJhg281WmckDcmOdSnfLCw6Lg+aSAjvVSqU=",
-      "sha256": "b516a2a244661c9860dbcd5699c90372639d4a77cb0b0e8b83e692023bd54aa5"
+      "digest": "y0WAMbsbL0cXssVZpsGjjEPs4TCocJlwmRmj3+D9YnU=",
+      "sha256": "cb458031bb1b2f4717b2c559a6c1a38c43ece130a87099709919a3dfe0fd6275"
     },
     {
       "platform": "darwin",
       "arch": "amd64",
-      "url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.1.0/callbrifel-0.1.0-darwin-amd64.app.zip",
-      "filename": "callbrifel-0.1.0-darwin-amd64.app.zip",
+      "url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.2.0/callbrifel-0.2.0-darwin-amd64.app.zip",
+      "filename": "callbrifel-0.2.0-darwin-amd64.app.zip",
       "filetype": "zip",
-      "size": 8305259,
+      "size": 8313517,
       "digestAlgo": "sha256",
-      "digest": "yUIG3OYQuISOTi+WI5MM0JTjHmXBbS6UuaJ3rM/o6uM=",
-      "sha256": "c94206dce610b8848e4e2f9623930cd094e31e65c16d2e94b9a277accfe8eae3"
+      "digest": "md7QlGJQdIShYG+u3PKPCAleGi38V0aWJrhAprbOxAQ=",
+      "sha256": "99ded09462507484a1606faedcf28f08095e1a2dfc57469626b840a6b6cec404"
     },
     {
       "platform": "windows",
       "arch": "amd64",
-      "url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.1.0/callbrifel-0.1.0-windows-amd64.zip",
-      "filename": "callbrifel-0.1.0-windows-amd64.zip",
+      "url": "https://github.com/brifel/callbrifel-releases/releases/download/v0.2.0/callbrifel-0.2.0-windows-amd64.zip",
+      "filename": "callbrifel-0.2.0-windows-amd64.zip",
       "filetype": "zip",
-      "size": 7813560,
+      "size": 7853831,
       "digestAlgo": "sha256",
-      "digest": "MsG4S7Pga5WmBeliZGvGZMJtNBuoCPR39EQ+ex7kmb8=",
-      "sha256": "32c1b84bb3e06b95a605e962646bc664c26d341ba808f477f4443e7b1ee499bf"
+      "digest": "VHuQdvXSQBtSndwvU/izD7a+0YzI69N4o1FQP9rxrBU=",
+      "sha256": "547b9076f5d2401b529ddc2f53f8b30fb6bed18cc8ebd378a351503fdaf1ac15"
     }
   ]
 }
